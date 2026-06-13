@@ -10,6 +10,7 @@ namespace op {
 }
 
 int main() {
+    std::cout << "*****************CALCULATOR*****************\n";
     std::cout << "Enter first number: ";
     std::cin >> inp::x;
     
